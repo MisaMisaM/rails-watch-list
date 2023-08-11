@@ -17,7 +17,7 @@ Movie.create(title: "Ocean's Eight", overview: "Debbie Ocean, a criminal masterm
 p "#{Movie.count} Movies are created"
 
 List.create(name: "Drama")
-List.create(name: "All time favorites")
+List.create(name: "Fantasy")
 List.create(name: "Girl power")
 p "#{List.count} Lists are created"
 
